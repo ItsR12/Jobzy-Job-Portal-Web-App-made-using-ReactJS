@@ -6,7 +6,8 @@
 ![Jobzy - Post new job page](https://github.com/user-attachments/assets/0fa1d85f-f4a5-4607-9cb3-b929c93180a9)
 ![Jobzy - Job list page](https://github.com/user-attachments/assets/0e9db8f1-4885-47e5-9c45-bfa4273636b0)
 ![Jobzy - Job application status](https://github.com/user-attachments/assets/30f65def-2aef-448b-9538-b3ed51e6077f)
-![Jobzy - Dashboard](https://github.com/user-attachments/assets/215104d4-7071-45b0-931b-7a709f6626e2)
+![Uploading Jobzy - Dashboard.png…]()
+
 
 # Getting Started with Create React App
 
