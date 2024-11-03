@@ -1,3 +1,13 @@
+# Jobzy-Job-Portal Screenshots
+![Jobzy index page](https://github.com/user-attachments/assets/7fcc7133-6042-4dab-b9f1-1b7c5962b72c)
+![Jobzy - Sign Up Page](https://github.com/user-attachments/assets/486d8f51-7b11-4eb8-a54c-ea238459a45a)
+![Jobzy - Sign In Page](https://github.com/user-attachments/assets/34513d1d-bd2b-4baf-b10c-97922e5303ce)
+![Jobzy - Profile Edit page](https://github.com/user-attachments/assets/665238e5-6e05-4b50-b1f7-e82ea4a385c7)
+![Jobzy - Post new job page](https://github.com/user-attachments/assets/0fa1d85f-f4a5-4607-9cb3-b929c93180a9)
+![Jobzy - Job list page](https://github.com/user-attachments/assets/0e9db8f1-4885-47e5-9c45-bfa4273636b0)
+![Jobzy - Job application status](https://github.com/user-attachments/assets/30f65def-2aef-448b-9538-b3ed51e6077f)
+![Jobzy - Dashboard](https://github.com/user-attachments/assets/215104d4-7071-45b0-931b-7a709f6626e2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
