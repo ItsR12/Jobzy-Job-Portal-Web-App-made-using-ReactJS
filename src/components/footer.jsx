@@ -146,7 +146,7 @@ const Footer = () => {
                   Date().getFullYear()));
                 </script>
               </span>
-              Jobzy, Inc. All Rights Reserved
+              Jobzy, Inc. All Rights Reserved  Made by Rajat Bara
             </span>
           </div>
           <div class="col-12 col-md-7 col-lg-8 d-md-flex justify-content-end">
